@@ -1,0 +1,94 @@
+﻿2017-10-27 21:30:56.076 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:30:56.361 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:30:56.417 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:30:56.491 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:30:56.497 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:30:56.504 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:32:39.933 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:32:40.158 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:32:40.680 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:32:40.773 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:32:40.789 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:32:40.800 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:32:51.884 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 71a28866-340f-48b4-8291-039aa92399a9
+2017-10-27 21:32:57.197 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 388f2c5a-2a67-43d9-b9ff-7045b653bca6
+2017-10-27 21:32:58.578 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 4c04d46b-e274-4b3a-b234-14d42a16cd40
+2017-10-27 21:33:01.525 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= f22c220d-e307-4ef6-b86c-48b4c9deb67e
+2017-10-27 21:33:11.342 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 287ba2a8-cc34-42a7-b766-bf12841d0b13
+2017-10-27 21:33:13.015 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 9247f5dd-dded-4f2c-9beb-7200c2e0b8c7
+2017-10-27 21:33:53.649 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:33:53.876 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:33:53.932 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:33:54.000 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:33:54.009 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:33:54.020 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:16.532 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:34:16.677 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:34:16.721 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:34:16.795 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:16.806 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:16.813 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:34.012 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:34:34.166 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:34:34.198 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:34:34.246 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:34.253 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:34.260 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:34:34.380 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= deafb90a-d2dc-42cf-9ac8-efe2525ec18b
+2017-10-27 21:34:34.394 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 0e2719ff-5117-4895-b6c2-d21e42d879b6
+2017-10-27 21:34:34.404 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 64827e41-e5df-432f-814e-fe59b9be97ee
+2017-10-27 21:52:48.717 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:52:48.859 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:52:48.909 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:52:48.980 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:52:48.995 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:52:49.006 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:53:00.110 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 74096819-daa0-4b18-ad49-eb915d02e8a6
+2017-10-27 21:53:08.211 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= e4dcf70d-3372-4bbf-9267-5092f80d014f
+2017-10-27 21:53:14.938 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 88b5e505-496c-4416-a6d2-153c86e22a9f
+2017-10-27 21:53:16.497 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 91818168-366d-40c3-9e9f-ffe6e8cbda08
+2017-10-27 21:53:17.863 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 96d0ba42-286a-4471-ba28-4100b52a7f21
+2017-10-27 21:59:22.977 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 21:59:23.421 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:59:23.493 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:59:23.579 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:23.594 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:23.607 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:41.250 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 5360cde9-9136-4b88-9d72-8048455217d6
+2017-10-27 22:01:28.367 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 22:01:29.140 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:01:29.215 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:01:29.294 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:29.314 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:29.330 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:45.924 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 28a24563-38b9-41ca-a5a9-2f0b6aeaa8a3
+2017-10-27 22:01:58.216 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 5db12c03-01c2-4646-ad7a-5c136a6b0574
+2017-10-27 22:02:15.989 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 5c46359f-0290-4840-aa7a-7368770a143d
+2017-10-27 22:03:22.236 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\' with level Info
+2017-10-27 22:03:22.437 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:03:22.509 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:03:22.589 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:22.615 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:22.628 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:38.463 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= e1db1fd1-8a9d-4d4c-b91f-bf85117de75c
+2017-10-27 22:03:41.670 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 765a670b-5917-456d-b49b-54327a2589ea
+2017-10-27 22:03:46.313 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 2e17a5e0-e090-4231-ba32-1bcff7e3fc3c
+2017-10-27 22:03:52.174 INFO  Sales.PlaceOderHandler Received PlaceOrder, OrderId= 8e3c450e-8e96-4c1b-81b0-2146f4702f81

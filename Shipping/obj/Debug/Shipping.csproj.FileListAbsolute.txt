@@ -1,0 +1,11 @@
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\Shipping.exe.config
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\Shipping.exe
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\Shipping.pdb
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.dll
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\Messages.pdb
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.pdb
+E:\Development Zone\GitHub\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.xml
+E:\Development Zone\GitHub\RetailDemo\Shipping\obj\Debug\Shipping.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\RetailDemo\Shipping\obj\Debug\Shipping.exe
+E:\Development Zone\GitHub\RetailDemo\Shipping\obj\Debug\Shipping.pdb

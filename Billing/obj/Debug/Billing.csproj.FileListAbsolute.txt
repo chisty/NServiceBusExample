@@ -1,0 +1,11 @@
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\Billing.exe.config
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\Billing.exe
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\Billing.pdb
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\NServiceBus.Core.dll
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\Messages.pdb
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\NServiceBus.Core.pdb
+E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\NServiceBus.Core.xml
+E:\Development Zone\GitHub\RetailDemo\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\RetailDemo\Billing\obj\Debug\Billing.exe
+E:\Development Zone\GitHub\RetailDemo\Billing\obj\Debug\Billing.pdb

@@ -1,0 +1,11 @@
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\Sales.exe.config
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\Sales.exe
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\Sales.pdb
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\NServiceBus.Core.dll
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\Messages.pdb
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\NServiceBus.Core.pdb
+E:\Development Zone\GitHub\RetailDemo\Sales\bin\Debug\NServiceBus.Core.xml
+E:\Development Zone\GitHub\RetailDemo\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\RetailDemo\Sales\obj\Debug\Sales.exe
+E:\Development Zone\GitHub\RetailDemo\Sales\obj\Debug\Sales.pdb

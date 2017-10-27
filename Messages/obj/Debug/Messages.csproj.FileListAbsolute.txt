@@ -1,0 +1,8 @@
+E:\Development Zone\GitHub\RetailDemo\Messages\bin\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\Messages\bin\Debug\Messages.pdb
+E:\Development Zone\GitHub\RetailDemo\Messages\bin\Debug\NServiceBus.Core.dll
+E:\Development Zone\GitHub\RetailDemo\Messages\bin\Debug\NServiceBus.Core.pdb
+E:\Development Zone\GitHub\RetailDemo\Messages\bin\Debug\NServiceBus.Core.xml
+E:\Development Zone\GitHub\RetailDemo\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\RetailDemo\Messages\obj\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\Messages\obj\Debug\Messages.pdb

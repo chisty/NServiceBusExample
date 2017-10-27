@@ -1,0 +1,11 @@
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\ClientUI.exe.config
+E:\Development Zone\GitHub\RetailDemo\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\ClientUI.exe
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\ClientUI.pdb
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.dll
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.pdb
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.xml
+E:\Development Zone\GitHub\RetailDemo\ClientUI\obj\Debug\ClientUI.exe
+E:\Development Zone\GitHub\RetailDemo\ClientUI\obj\Debug\ClientUI.pdb
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\Messages.dll
+E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\Messages.pdb

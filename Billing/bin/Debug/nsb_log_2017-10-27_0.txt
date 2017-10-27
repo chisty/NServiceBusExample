@@ -1,0 +1,61 @@
+﻿2017-10-27 21:52:50.196 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 21:52:50.365 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:52:50.400 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:52:50.443 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:52:50.449 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:52:50.457 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:53:00.272 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 74096819-daa0-4b18-ad49-eb915d02e8a6 - Charging credit card...
+2017-10-27 21:53:08.243 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= e4dcf70d-3372-4bbf-9267-5092f80d014f - Charging credit card...
+2017-10-27 21:53:27.410 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 21:53:27.557 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:53:27.588 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:53:27.647 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:53:27.654 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:53:27.662 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:53:27.771 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 96d0ba42-286a-4471-ba28-4100b52a7f21 - Charging credit card...
+2017-10-27 21:53:27.785 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 88b5e505-496c-4416-a6d2-153c86e22a9f - Charging credit card...
+2017-10-27 21:53:27.795 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 91818168-366d-40c3-9e9f-ffe6e8cbda08 - Charging credit card...
+2017-10-27 21:59:23.295 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 21:59:23.668 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 21:59:23.736 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 21:59:23.832 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:23.843 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:23.874 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 21:59:41.435 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 5360cde9-9136-4b88-9d72-8048455217d6 - Charging credit card...
+2017-10-27 22:01:29.344 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 22:01:29.603 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:01:29.646 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:01:29.699 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:29.712 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:29.722 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:01:46.099 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 28a24563-38b9-41ca-a5a9-2f0b6aeaa8a3 - Charging credit card...
+2017-10-27 22:03:22.819 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 22:03:23.055 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:03:23.109 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:03:23.202 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:23.216 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:23.231 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:03:23.556 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 5c46359f-0290-4840-aa7a-7368770a143d - Charging credit card...
+2017-10-27 22:03:23.658 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 5db12c03-01c2-4646-ad7a-5c136a6b0574 - Charging credit card...
+2017-10-27 22:03:38.558 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= e1db1fd1-8a9d-4d4c-b91f-bf85117de75c - Charging credit card...
+2017-10-27 22:03:41.696 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 765a670b-5917-456d-b49b-54327a2589ea - Charging credit card...
+2017-10-27 22:04:05.552 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\Billing\bin\Debug\' with level Info
+2017-10-27 22:04:05.716 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:04:05.750 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:04:05.809 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:04:05.820 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:04:05.828 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:04:05.940 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 2e17a5e0-e090-4231-ba32-1bcff7e3fc3c - Charging credit card...
+2017-10-27 22:04:06.016 INFO  Billing.OrderPlacedHandler Received OrderPlaced, Order Id= 8e3c450e-8e96-4c1b-81b0-2146f4702f81 - Charging credit card...
