@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 using Messages;
 using NServiceBus;
 using NServiceBus.Logging;
@@ -10,7 +11,8 @@ namespace Sales
         private static ILog log = LogManager.GetLogger<PlaceOderHandler>();
         public Task Handle(PlaceOrder message, IMessageHandlerContext context)
         {
-            log.Info($"Received PlaceOrder, OrderId= {message.OrderId}");
+            log.Info($"Received PlaceOrder, OrderId= {message.OrderId}");       
+//            throw new Exception("Boom");     
             var orderPlaced = new OrderPlaced {OrderId = message.OrderId};
             return context.Publish(orderPlaced);
         }

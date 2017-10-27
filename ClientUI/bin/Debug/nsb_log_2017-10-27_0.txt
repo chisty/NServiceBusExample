@@ -888,3 +888,45 @@ net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
 2017-10-27 22:03:46.303 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
 2017-10-27 22:03:52.142 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= 8e3c450e-8e96-4c1b-81b0-2146f4702f81
 2017-10-27 22:03:52.161 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:24:00.450 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\' with level Info
+2017-10-27 22:24:01.788 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:24:01.843 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:24:01.919 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:24:01.960 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:24:02.007 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:24:02.044 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:24:26.505 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= 237da999-719c-4688-95ff-539301411d84
+2017-10-27 22:24:26.584 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:40:42.726 INFO  DefaultFactory Logging to 'E:\Development Zone\GitHub\RetailDemo\ClientUI\bin\Debug\' with level Info
+2017-10-27 22:40:43.938 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '10/27/2017'
+
+2017-10-27 22:40:46.034 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'RingMaster-PC\chisty' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "RingMaster-PC\chisty" /add
+2017-10-27 22:40:46.228 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Everyone] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.245 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\ANONYMOUS LOGON] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.287 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Timeouts] is running with [Everyone] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.329 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Timeouts] is running with [NT AUTHORITY\ANONYMOUS LOGON] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.361 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.TimeoutsDispatcher] is running with [Everyone] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.437 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.TimeoutsDispatcher] is running with [NT AUTHORITY\ANONYMOUS LOGON] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.466 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Retries] is running with [Everyone] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.503 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI.Retries] is running with [NT AUTHORITY\ANONYMOUS LOGON] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.532 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI] is running with [Everyone] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.558 WARN  NServiceBus.QueuePermissions Queue [private$\ClientUI] is running with [NT AUTHORITY\ANONYMOUS LOGON] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2017-10-27 22:40:46.602 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:40:46.650 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:40:46.662 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-10-27 22:40:46.692 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:41:41.310 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= 044e55ce-d1a2-4dc8-813a-c451e6ca4e20
+2017-10-27 22:41:41.462 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:43:34.588 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= f40c27b1-1040-4ac5-9aa7-4738ef31c398
+2017-10-27 22:43:34.598 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:46:14.498 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= ac49e635-0051-4e55-bb1e-49124a25e9bb
+2017-10-27 22:46:14.507 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:47:19.786 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= 2b458fd9-53ef-4fde-9686-2da005d18900
+2017-10-27 22:47:19.800 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:47:46.890 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= a597eaab-50f8-4e37-ba85-45eb3c80276b
+2017-10-27 22:47:46.898 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2017-10-27 22:47:50.913 INFO  ClientUI.Program Sending PlaceOrder command. OrderId= 6a51ee52-105c-4ceb-bcf9-a2c2a96564c1
+2017-10-27 22:47:50.923 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
